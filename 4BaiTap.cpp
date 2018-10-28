@@ -39,7 +39,7 @@ int TongGiaiThua(int mang [100],int n){
 			tich=tich*j;
 		}
 		gt+=tich;
-		printf("  giai thua cua %d la %d \n",i,gt);
+		printf("  giai thua cua phan tu [%d] la %d \n",i,gt);
 		tonggiaithua+=gt;
 	
 	}
